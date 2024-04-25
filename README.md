@@ -20,7 +20,7 @@ As a ReactJS frontend developer, I'm constantly striving to expand my skills and
 I'm looking to collaborate on projects that involve building responsive and dynamic user interfaces using ReactJS. I'm particularly interested in working on web applications that leverage the latest frontend technologies and best practices. Whether it's developing new features, optimizing performance, or enhancing user experience, I'm eager to contribute my skills to projects that push the boundaries of frontend development. I'm open to collaborating with designers, backend developers, and other frontend developers to create engaging and intuitive digital experiences.
 
 ## Contact Me
-- **Email**: [your_email@example.com](jaiswaldeepak4939@gmail.com)
+- **Email**: [jaiswaldeepak4939@gmail.com](jaiswaldeepak4939@gmail.com)
 - **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/mrdeepakjaiswal/)
 - **GitHub**: [Check out my GitHub profile](https://github.com/mr-deepakjaiswal/)
 - **Personal Website/Blog**: [Explore my portfolio and blog](https://mr-deepakjaiswal.github.io/selfPortfolio/)
